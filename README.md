@@ -9,8 +9,16 @@ I can't say what I'm great at, but I will always do my best :)
 
 ## Contact
 <!-- The image I resized in paint.net is too large so I gonna shrink it to 22 instead of just uploading the shit again -->
-<a href="https://discord.gg/DhwmRTHQSJ"><img src="https://raw.githubusercontent.com/SpeedSonic0MC/SpeedSonic0MC/main/assets/image_2024-08-22_140301067.png" height="22" width="94"/></a>
+<div align="left">
+  <a href="https://discord.gg/DhwmRTHQSJ" target="_blank"><img src="https://raw.githubusercontent.com/SpeedSonic0MC/SpeedSonic0MC/main/assets/6e9b94d2-b488-47df-ae2b-4313338e2d0a.png" height="22"/></a>
+  <a href="https://instagram.com/speedsonic01" target="_blank"><img src="https://raw.githubusercontent.com/SpeedSonic0MC/SpeedSonic0MC/main/assets/4d1ee929-a3d7-4316-8e3e-cfccf5aed25c.png" height="22"/></a>
+</div>
 
 ## Recent Project
-I'm recently working on...
+I'm recently working on...<br/>
 [![44d3b5cb-2432-499b-984f-ff9107d6426f](https://gitmystat.vercel.app/recent?theme=gold&username=SpeedSonic0MC)](https://github.com/speedsonic0mc)
+
+<p style="font-size:8;">
+  <i>Q: SpeedSonic0, isn't the text font in image Pinch?</i><br/>
+  <i>A: <a href="https://fsymbols.com/generators/smallcaps/">idk :?</a></i>
+</p>
