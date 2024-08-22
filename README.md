@@ -17,7 +17,3 @@ I can't say what I'm great at, but I will always do my best :)
 I'm recently working on...<br/>
 [![44d3b5cb-2432-499b-984f-ff9107d6426f](https://gitmystat.vercel.app/recent?theme=gold&username=SpeedSonic0MC)](https://github.com/speedsonic0mc)
 
-<p style="font-size:8;">
-  <i>Q: SpeedSonic0, isn't the text font in image Pinch?</i><br/>
-  <i>A: <a href="https://fsymbols.com/generators/smallcaps/">idk :?</a></i>
-</p>
